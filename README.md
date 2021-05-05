@@ -1,10 +1,10 @@
 ### Hi there, I'm Vignesh 👋
 
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=vickymhs&theme=highcontrast&show_icons=true&count_private=true)
+
 <!--
 **vickymhs/vickymhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=vickymhs&theme=algolia&show_icons=true&count_private=true)
 
 Here are some ideas to get you started:
 
